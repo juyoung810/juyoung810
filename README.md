@@ -1,5 +1,5 @@
 
-# 👋 🐥 👋
+## 👋 🐥 👋
 <!--
 **juyoung810/juyoung810** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,8 +16,8 @@ Here are some ideas to get you started:
 -->
 
 
-<div align=center><h1>� Tech Stack</h1></div>
-<div align=center><h5>� used at leat once..</h5></div>
+<div align=center><h2>📚 Tech Stack 📚</h2></div>
+<div align=center><h4>✓ used at leat once..</h4></div>
 <div align=center> 
   <img src="https://img.shields.io/badge/java-007396?style=for-the-badge&logo=java&logoColor=white"> 
   <img src="https://img.shields.io/badge/c++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white">
